@@ -1,6 +1,6 @@
 {
-    "name": "jcchavezs/zipkin-opentracing",
-    "description": "A Zipkin bridge with OpenTracing",
+    "name": "masixun/zipkin-opentracing",
+    "description": "A Zipkin bridge with OpenTracing Copy From jcchavezs/zipkin-opentracing",
     "type": "library",
     "require": {
         "opentracing/opentracing": "1.0.0-beta5",
